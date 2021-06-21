@@ -7,7 +7,7 @@ require (
 	github.com/edgexfoundry/go-mod-registry v0.1.27
 	github.com/edgexfoundry/go-mod-secrets v0.0.29
 	github.com/gorilla/mux v1.7.1
-	github.com/pelletier/go-toml v1.2.0
+	github.com/pelletier/go-toml v1.9.3
 	github.com/stretchr/testify v1.6.1
 )
 
